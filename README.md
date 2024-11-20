@@ -1,35 +1,27 @@
 # Mongodb_dashboard
 It contains dashboard analysis for shipwrecks data done on Mongodb 
 
-#Attributes Description
+# Attributes Description
 _id : A unique identifier for each record in the dataset. Typically assigned automatically in a database like MongoDB.
 recrd : Possibly a placeholder for a record name or number. It's empty here, so its intended use is unclear.
 vesslterms: May indicate terms or classifications related to the vessel involved in the wreck. 
-
 feature_type: Describes the type of feature identified in the dataset. In this case, it refers to "Wrecks - Visible," meaning the shipwreck is visible or above water.
-
 chart: Refers to the nautical chart or dataset the information is derived from. It may contain identifiers for region (US), chart type (DNC), and specific chart number 
-
 latdec: The latitude of the shipwreck in decimal degrees.
-
 londec: The longitude of the shipwreck in decimal degrees.
-
 gp_quality: Likely refers to the quality of the geospatial data or positioning. It's empty here, suggesting no quality assessment has been recorded.
-
 depth: The depth of the shipwreck in water, likely in meters or feet. Empty here, so the depth may not have been measured or recorded.
-
 sounding_type: Refers to the method or type of sounding used to measure depth or locate the wreck. It's empty, indicating no method was recorded.
-
 history: May contain historical details or events related to the shipwreck. 
-
 quasou: Likely represents the "Quality of Sounding" to indicate how reliable or accurate the depth or location data is.
-
 watlev: Stands for "Water Level," describing the water condition at the wreck location. In this case, "always dry" means the location is above water and remains dry.
-
 coordinates: An array containing the longitude and latitude of the shipwreck, used for geospatial mapping. Matches londec and latdec.
+
+# Dashboard
 
 ![Shipwrecks data analysis dashboard](https://github.com/user-attachments/assets/c4a08f84-0610-4327-a26f-4574cfa6c307)
 
+# Objective,questions and insights
 
 1. Median Depth for Each Condition of Shipwrecks
 Objective: Determine the median depths for various types of shipwreck conditions to identify patterns.
@@ -61,7 +53,7 @@ Objective: Evaluate the quality of sound data used for determining depths.
 Question: What is the primary reason for depth data being unavailable for certain shipwrecks?
 Insight: Poor sound quality is the leading reason why depth data is unavailable for many coordinates.
 
-7. Top Depth Category for Feature Type and Water Level (Word Cloud)
+7. Top Depth Category for Feature Type and Water Level
 Objective: Identify the dominant shipwreck type and water level characteristics.
 Question: What is the most common combination of feature type and water level?
 Insight: "Wrecks - Submerged, nondangerous" with the status "always under water/submerged" is the most common combination.
