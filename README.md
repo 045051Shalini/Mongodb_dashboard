@@ -51,16 +51,22 @@ It contains dashboard analysis for shipwrecks data done on Mongodb<br/>
 
 # 1 **Insight:** Median Depth for Each Condition of Shipwrecks<br/>
 Shipwrecks labeled as "Submerged dangerous" are found at significantly greater depths compared to other<br/> conditions.
+**Managerial Implication:** Allocate advanced diving and detection resources to deeper waters to ensure effective exploration and hazard mitigation.
 # 2 **Insight:** Dangerous Shorelines with Most Shipwrecks<br/>
 The shoreline near Virginia Beach and Boulevard is the most dangerous, hosting a high density of submerged<br/> shipwrecks.
+**Managerial Implication:** Prioritize implementing safety measures and warning systems in high-density areas like Virginia Beach to reduce maritime accidents.
 # 3 **Insight:** Geographical Spread of Shipwrecks with Their Condition<br/>
 The North Atlantic Ocean has the largest cluster of submerged dangerous shipwrecks.<br/>
+**Managerial Implication:** Enhance monitoring and navigation support in the North Atlantic to safeguard maritime operations in this high-risk zone.
 # 4 **Insight:** Distribution of Shipwrecks by Their Condition<br/>
 Only 23% of shipwrecks are visible, while the majority are submerged, with a large proportion being dangerous.<br/>
+**Managerial Implication:** Focus on improving underwater detection technologies to address the risks posed by submerged shipwrecks.
 # 5 **Insight:** Depth Analysis for Different Types of Shipwrecks<br/>
 Submerged dangerous shipwrecks are most commonly located at a depth of 139 ft.<br/>
+**Managerial Implication:** Develop specialized equipment and protocols for exploration and hazard management at depths of around 139 ft.
 # 6 **Insight:** Sound Analysis for Coordinates<br/>
 Poor sound quality is the leading reason why depth data is unavailable for many coordinates.<br/>
+**Managerial Implication:** Invest in high-fidelity sonar systems to improve the accuracy and availability of depth data for shipwreck coordinates.
 # 7 **Insight:** Top Depth Category for Feature Type and Water Level<br/>
 "Wrecks - Submerged, nondangerous" with the status "always under water/submerged" is the most common combination.<br/>
-
+**Managerial Implication:** Allocate resources to monitor and document non-dangerous submerged wrecks, as they may still serve historical or ecological purposes.
