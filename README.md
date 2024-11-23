@@ -1,4 +1,4 @@
-# Shipwrecks data analysis
+# Shipwreck data analysis
 It contains dashboard  as well as objectives and insigts for analysis of shipwrecks data which is done on Mongodb atlas <br/> 
 
 ## Attributes Description
