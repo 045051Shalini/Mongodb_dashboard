@@ -47,7 +47,7 @@ It contains dashboard analysis for shipwrecks data done on Mongodb<br/>
 
 # link to the dashboard : https://charts.mongodb.com/charts-project-0-vzguajj/dashboards/66ea86e8-ed00-4156-a01f-a1beac0f1948
 
-# Insights<br/>
+# Insights & Managerial implications<br/>
 
 # 1  Median Depth for Each Condition of Shipwrecks<br/>
 **Insight:** Shipwrecks labeled as "Submerged dangerous" are found at significantly greater depths compared to other conditions.<br/> 
