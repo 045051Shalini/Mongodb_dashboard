@@ -79,9 +79,7 @@ It contains dashboard  as well as objectives and insigts for analysis of shipwre
 ### 7. Top Depth Category for Feature Type and Water Level<br/>
 **Question:** What is the most common combination of feature type and water level?<br/>
 
-![image](https://github.com/user-attachments/assets/9623d14a-603a-487a-afab-5da6ad07ccb0) <br/>
-
-<img src="https://github.com/user-attachments/assets/9623d14a-603a-487a-afab-5da6ad07ccb0" width="30%" alt="image description" />
+<img src="https://github.com/user-attachments/assets/9623d14a-603a-487a-afab-5da6ad07ccb0" width="60%" alt="image description"<br/>
 **Insight:** "Wrecks - Submerged, nondangerous" with the status "always under water/submerged" is the most common combination.<br/>
 **Managerial Implication:** Allocate resources to monitor and document non-dangerous submerged wrecks, as they may still serve historical or ecological purposes.<br/>
 
