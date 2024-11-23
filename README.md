@@ -2,20 +2,20 @@
 It contains dashboard  as well as objectives and insigts for analysis of shipwrecks data which is done using Mongodb atlas and Mongodb compass. <br/> 
 
 ## Attributes Description for shipwreck data
-  **_id** : A unique identifier for each record in the dataset. Typically assigned automatically in a database like MongoDB.<br/>
-  **recrd** : Possibly a placeholder for a record name or number. It's empty here, so its intended use is unclear.<br/>
-  **vesslterms**: May indicate terms or classifications related to the vessel involved in the wreck.<br/> 
-  **feature_type**: Describes the type of feature identified in the dataset. In this case, it refers to "Wrecks - Visible," meaning the shipwreck is visible or above water.<br/>
-  **chart**: Refers to the nautical chart or dataset the information is derived from. It may contain identifiers for region (US), chart type (DNC), and specific chart number<br/> 
-  **latdec**: The latitude of the shipwreck in decimal degrees.<br/>
-  **londec**: The longitude of the shipwreck in decimal degrees.<br/>
-  **gp_quality**: Likely refers to the quality of the geospatial data or positioning. It's empty here, suggesting no quality assessment has been recorded.<br/>
-  **depth**: The depth of the shipwreck in water, likely in meters or feet. Empty here, so the depth may not have been measured or recorded.<br/>
-  **sounding_type**: Refers to the method or type of sounding used to measure depth or locate the wreck. It's empty, indicating no method was recorded.<br/>
-  **history**: May contain historical details or events related to the shipwreck.<br/> 
-  **quasou**: Likely represents the "Quality of Sounding" to indicate how reliable or accurate the depth or location data is.<br/>
-  **watlev**: Stands for "Water Level," describing the water condition at the wreck location. In this case, "always dry" means the location is above water and remains dry.<br/>
-  **coordinates**: An array containing the longitude and latitude of the shipwreck, used for geospatial mapping. Matches londec and latdec.<br/>
+    **_id** : A unique identifier for each record in the dataset. Typically assigned automatically in a database like MongoDB.<br/>
+    **recrd** : Possibly a placeholder for a record name or number. It's empty here, so its intended use is unclear.<br/>
+    **vesslterms**: May indicate terms or classifications related to the vessel involved in the wreck.<br/> 
+    **feature_type**: Describes the type of feature identified in the dataset. In this case, it refers to "Wrecks - Visible," meaning the shipwreck is visible or above water.<br/>
+    **chart**: Refers to the nautical chart or dataset the information is derived from. It may contain identifiers for region (US), chart type (DNC), and specific chart number<br/> 
+    **latdec**: The latitude of the shipwreck in decimal degrees.<br/>
+    **londec**: The longitude of the shipwreck in decimal degrees.<br/>
+    **gp_quality**: Likely refers to the quality of the geospatial data or positioning. It's empty here, suggesting no quality assessment has been recorded.<br/>
+    **depth**: The depth of the shipwreck in water, likely in meters or feet. Empty here, so the depth may not have been measured or recorded.<br/>
+    **sounding_type**: Refers to the method or type of sounding used to measure depth or locate the wreck. It's empty, indicating no method was recorded.<br/>
+    **history**: May contain historical details or events related to the shipwreck.<br/> 
+    **quasou**: Likely represents the "Quality of Sounding" to indicate how reliable or accurate the depth or location data is.<br/>
+    **watlev**: Stands for "Water Level," describing the water condition at the wreck location. In this case, "always dry" means the location is above water and remains dry.<br/>
+    **coordinates**: An array containing the longitude and latitude of the shipwreck, used for geospatial mapping. Matches londec and latdec.<br/>
 
 ## Objectives<br/>  
 1. Analyze shipwreck patterns by depth, visibility, and condition to uncover key insights.<br/>  
