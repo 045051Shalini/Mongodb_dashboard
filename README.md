@@ -1,5 +1,5 @@
 # Shipwrecks data analysis
-It contains dashboard  as well as objectives and insigts for analysis of shipwrecks data which is done on Mongodb atlas using mongodb compass<br/> 
+It contains dashboard  as well as objectives and insigts for analysis of shipwrecks data which is done on Mongodb atlas <br/> 
 
 ## Attributes Description
 **_id** : A unique identifier for each record in the dataset. Typically assigned automatically in a database like MongoDB.<br/>
