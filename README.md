@@ -18,14 +18,9 @@ It contains dashboard  as well as objectives and insigts for analysis of shipwre
 **coordinates**: An array containing the longitude and latitude of the shipwreck, used for geospatial mapping. Matches londec and latdec.<br/>
 
 ## Objectives<br/>  
-1.Determine the median depths for various types of shipwreck conditions to identify patterns.<br/>
-2.Identify geographic regions with the highest concentration of shipwrecks.<br/>
-3.Map the global distribution of shipwrecks by condition.<br/>
-4.Examine the percentage distribution of shipwrecks based on their visibility and condition.<br/>
-5.Analyze the depth distribution for each type of shipwreck.<br/>
-6.Evaluate the quality of sound data used for determining depths.<br/>
-7.Identify the dominant shipwreck type and water level characteristics.<br/>
-
+1. Analyze shipwreck patterns by depth, visibility, and condition to uncover key insights.<br/>  
+2. Map global shipwreck distribution and identify regions with high concentrations.<br/>  
+3. Assess data quality, depth characteristics, and dominant shipwreck types to understand trends and influences.<br/>  
 
 ## Analysis <br/>
 
