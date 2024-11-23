@@ -49,11 +49,18 @@ It contains dashboard analysis for shipwrecks data done on Mongodb<br/>
 
 # Insights<br/>
 
-# 1 **Insight:** Shipwrecks labeled as "Submerged dangerous" are found at significantly greater depths compared to other<br/> conditions.
-# 2 **Insight:** The shoreline near Virginia Beach and Boulevard is the most dangerous, hosting a high density of submerged<br/> shipwrecks.
-# 3 **Insight:** The North Atlantic Ocean has the largest cluster of submerged dangerous shipwrecks.<br/>
-# 4 **Insight:** Only 23% of shipwrecks are visible, while the majority are submerged, with a large proportion being dangerous.<br/>
-# 5 **Insight:** Submerged dangerous shipwrecks are most commonly located at a depth of 139 ft.<br/>
-# 6 **Insight:** Poor sound quality is the leading reason why depth data is unavailable for many coordinates.<br/>
-# 7 **Insight:** "Wrecks - Submerged, nondangerous" with the status "always under water/submerged" is the most common combination.<br/>
+# 1 **Insight:** Median Depth for Each Condition of Shipwrecks<br/>
+Shipwrecks labeled as "Submerged dangerous" are found at significantly greater depths compared to other<br/> conditions.
+# 2 **Insight:** Dangerous Shorelines with Most Shipwrecks<br/>
+The shoreline near Virginia Beach and Boulevard is the most dangerous, hosting a high density of submerged<br/> shipwrecks.
+# 3 **Insight:** Geographical Spread of Shipwrecks with Their Condition<br/>
+The North Atlantic Ocean has the largest cluster of submerged dangerous shipwrecks.<br/>
+# 4 **Insight:** Distribution of Shipwrecks by Their Condition<br/>
+Only 23% of shipwrecks are visible, while the majority are submerged, with a large proportion being dangerous.<br/>
+# 5 **Insight:** Depth Analysis for Different Types of Shipwrecks<br/>
+Submerged dangerous shipwrecks are most commonly located at a depth of 139 ft.<br/>
+# 6 **Insight:** Sound Analysis for Coordinates<br/>
+Poor sound quality is the leading reason why depth data is unavailable for many coordinates.<br/>
+# 7 **Insight:** Top Depth Category for Feature Type and Water Level<br/>
+"Wrecks - Submerged, nondangerous" with the status "always under water/submerged" is the most common combination.<br/>
 
