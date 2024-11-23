@@ -85,7 +85,8 @@ It contains dashboard  as well as objectives and insigts for analysis of shipwre
 **Managerial Implication:** Allocate resources to monitor and document non-dangerous submerged wrecks, as they may still serve historical or ecological purposes.<br/>
 
 
-### Dashboard [View Dashboard](https://charts.mongodb.com/charts-project-0-vzguajj/dashboards/66ea86e8-ed00-4156-a01f-a1beac0f1948)
+### Dashboard 
+[View Dashboard](https://charts.mongodb.com/charts-project-0-vzguajj/dashboards/66ea86e8-ed00-4156-a01f-a1beac0f1948)
 
 ![Shipwrecks data analysis dashboard](https://github.com/user-attachments/assets/c4a08f84-0610-4327-a26f-4574cfa6c307) <br/>
 
