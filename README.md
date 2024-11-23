@@ -1,7 +1,7 @@
 # Shipwrecks data analysis
 It contains dashboard  as well as objectives and insigts for analysis of shipwrecks data which is done on Mongodb atlas using mongodb compass<br/> 
 
-# Attributes Description
+## Attributes Description
 **_id** : A unique identifier for each record in the dataset. Typically assigned automatically in a database like MongoDB.<br/>
 **recrd** : Possibly a placeholder for a record name or number. It's empty here, so its intended use is unclear.<br/>
 **vesslterms**: May indicate terms or classifications related to the vessel involved in the wreck.<br/> 
@@ -17,7 +17,7 @@ It contains dashboard  as well as objectives and insigts for analysis of shipwre
 **watlev**: Stands for "Water Level," describing the water condition at the wreck location. In this case, "always dry" means the location is above water and remains dry.<br/>
 **coordinates**: An array containing the longitude and latitude of the shipwreck, used for geospatial mapping. Matches londec and latdec.<br/>
 
-# Objectives<br/>  
+## Objectives<br/>  
 1.Determine the median depths for various types of shipwreck conditions to identify patterns.<br/>
 2.Identify geographic regions with the highest concentration of shipwrecks.<br/>
 3.Map the global distribution of shipwrecks by condition.<br/>
@@ -28,7 +28,8 @@ It contains dashboard  as well as objectives and insigts for analysis of shipwre
 
 
 
-# 1. Median Depth for Each Condition of Shipwrecks<br/>
+### 1. Median Depth for Each Condition of Shipwrecks<br/>
+
 **Question:** Which condition of shipwrecks is generally found at the deepest depths?<br/>
 
 ![Median depth for each condition of shipwrecks nbsp; (1)](https://github.com/user-attachments/assets/ea570f3a-9fcd-4230-a07d-fd3ce600064d) <br/>
@@ -36,28 +37,31 @@ It contains dashboard  as well as objectives and insigts for analysis of shipwre
 **Insight:** Shipwrecks labeled as "Submerged dangerous" are found at significantly greater depths compared to other conditions.<br/> 
 **Managerial Implication:** Allocate advanced diving and detection resources to deeper waters to ensure effective exploration and hazard mitigation.<br/>
 
-# 2. Dangerous Shorelines with Most Shipwrecks<br/>
+### 2. Dangerous Shorelines with Most Shipwrecks<br/>
+
 **Question:** Which shoreline has the highest density of dangerous shipwrecks?<br/>
 
 ![Dangerous shorelines with most shipwrecks](https://github.com/user-attachments/assets/083797f3-0002-4871-9295-ab6e6c2ac69d) <br/>
 **Insight:** The shoreline near Virginia Beach and Boulevard is the most dangerous, hosting a high density of submerged shipwrecks.<br/>
 **Managerial Implication:** Prioritize implementing safety measures and warning systems in high-density areas like Virginia Beach to reduce maritime accidents.<br/>
 
-# 3. Geographical Spread of Shipwrecks with Their Condition<br/>
+### 3. Geographical Spread of Shipwrecks with Their Condition<br/>
+
 **Question:** Where are most "Submerged dangerous" shipwrecks located globally?<br/>
 
 ![nbsp;Geographical Spread of Shipwrecks with their condition](https://github.com/user-attachments/assets/0f80abdd-de4c-4eeb-b802-7bc425a9f818) <br/>
 **Insight:** The North Atlantic Ocean has the largest cluster of submerged dangerous shipwrecks.<br/>
 **Managerial Implication:** Enhance monitoring and navigation support in the North Atlantic to safeguard maritime operations in this high-risk zone.<br/>
 
-# 4. Distribution of Shipwrecks by Their Condition<br/>
+### 4. Distribution of Shipwrecks by Their Condition<br/>
+
 **Question:** What proportion of shipwrecks are visible compared to those submerged?<br/>
 
 ![Distribution of Shipwrecks by their condition in which they were found](https://github.com/user-attachments/assets/271f7808-f2de-44cf-af32-316b002a6735) <br/>
 **Insight:** Only 23% of shipwrecks are visible, while the majority are submerged, with a large proportion being dangerous.<br/>
 **Managerial Implication:** Focus on improving underwater detection technologies to address the risks posed by submerged shipwrecks.<br/>
 
-# 5. Depth Analysis for Different Types of Shipwrecks<br/>
+## 5. Depth Analysis for Different Types of Shipwrecks<br/>
 **Question:** At what depth are most submerged dangerous shipwrecks found?<br/>
 
 ![Depth analysis for different types of shipwrecks](https://github.com/user-attachments/assets/c9731f20-ad63-4894-a114-6cb1eaacd552) <br/>
