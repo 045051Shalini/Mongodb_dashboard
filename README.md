@@ -2,7 +2,7 @@
 It contains dashboard  as well as objectives and insigts for analysis of shipwrecks data which is done using Mongodb atlas and Mongodb compass. <br/> 
 
 ## Attributes Description for shipwreck data
-   **_id** : A unique identifier for each record in the dataset. Typically assigned automatically in a database like MongoDB.<br/>
+   - **_id** : A unique identifier for each record in the dataset. Typically assigned automatically in a database like MongoDB.<br/>
    **recrd** : Possibly a placeholder for a record name or number. It's empty here, so its intended use is unclear.<br/>
    **vesslterms**: May indicate terms or classifications related to the vessel involved in the wreck.<br/> 
    **feature_type**: Describes the type of feature identified in the dataset. In this case, it refers to "Wrecks - Visible," meaning the shipwreck is visible or above water.<br/>
