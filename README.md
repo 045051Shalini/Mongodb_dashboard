@@ -61,21 +61,21 @@ It contains dashboard  as well as objectives and insigts for analysis of shipwre
 **Insight:** Only 23% of shipwrecks are visible, while the majority are submerged, with a large proportion being dangerous.<br/>
 **Managerial Implication:** Focus on improving underwater detection technologies to address the risks posed by submerged shipwrecks.<br/>
 
-## 5. Depth Analysis for Different Types of Shipwrecks<br/>
+### 5. Depth Analysis for Different Types of Shipwrecks<br/>
 **Question:** At what depth are most submerged dangerous shipwrecks found?<br/>
 
 ![Depth analysis for different types of shipwrecks](https://github.com/user-attachments/assets/c9731f20-ad63-4894-a114-6cb1eaacd552) <br/>
 **Insight:** Submerged dangerous shipwrecks are most commonly located at a depth of 139 ft.<br/>
 **Managerial Implication:** Develop specialized equipment and protocols for exploration and hazard management at depths of around 139 ft.<br/>
 
-# 6. Sound Analysis for Coordinates<br/>
+### 6. Sound Analysis for Coordinates<br/>
 **Question:** What is the primary reason for depth data being unavailable for certain shipwrecks?<br/> 
 
 ![Sound analysis for coordinates](https://github.com/user-attachments/assets/e5e49261-42b4-4b52-9f9d-af4450105602) <br/>
 **Insight:** Poor sound quality is the leading reason why depth data is unavailable for many coordinates.<br/>
 **Managerial Implication:** Invest in high-fidelity sonar systems to improve the accuracy and availability of depth data for shipwreck coordinates.<br/>
 
-# 7. Top Depth Category for Feature Type and Water Level<br/>
+### 7. Top Depth Category for Feature Type and Water Level<br/>
 **Question:** What is the most common combination of feature type and water level?<br/>
 
 ![image](https://github.com/user-attachments/assets/9623d14a-603a-487a-afab-5da6ad07ccb0) <br/>
@@ -83,11 +83,11 @@ It contains dashboard  as well as objectives and insigts for analysis of shipwre
 **Managerial Implication:** Allocate resources to monitor and document non-dangerous submerged wrecks, as they may still serve historical or ecological purposes.<br/>
 
 
-# Dashboard
+### Dashboard
 
 ![Shipwrecks data analysis dashboard](https://github.com/user-attachments/assets/c4a08f84-0610-4327-a26f-4574cfa6c307) <br/>
 
-# link to the dashboard : 
+### link to the dashboard : 
 [View Dashboard](https://charts.mongodb.com/charts-project-0-vzguajj/dashboards/66ea86e8-ed00-4156-a01f-a1beac0f1948)
 
 
