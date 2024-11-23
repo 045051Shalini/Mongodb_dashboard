@@ -71,7 +71,7 @@ It contains dashboard  as well as objectives and insigts for analysis of shipwre
 **Insight:** Poor sound quality is the leading reason why depth data is unavailable for many coordinates.<br/>
 **Managerial Implication:** Invest in high-fidelity sonar systems to improve the accuracy and availability of depth data for shipwreck coordinates.<br/>
 
-### 7. Top Depth Category for Feature Type and Water Level<br/>
+### 7. Top Depth Category for condition of shipwreck (Feature Type) and Water Level<br/>
 **Question:** What is the most common combination of feature type and water level?<br/>
 
 <img src="https://github.com/user-attachments/assets/9623d14a-603a-487a-afab-5da6ad07ccb0" width="50%" alt="image description" />
