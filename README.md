@@ -50,23 +50,23 @@ It contains dashboard analysis for shipwrecks data done on Mongodb<br/>
 # Insights<br/>
 
 # 1  Median Depth for Each Condition of Shipwrecks<br/>
-**Insight:** Shipwrecks labeled as "Submerged dangerous" are found at significantly greater depths compared to other<br/> conditions.
-**Managerial Implication:** Allocate advanced diving and detection resources to deeper waters to ensure effective exploration and hazard mitigation.
+**Insight:** Shipwrecks labeled as "Submerged dangerous" are found at significantly greater depths compared to other conditions.<br/> 
+**Managerial Implication:** Allocate advanced diving and detection resources to deeper waters to ensure effective exploration and hazard mitigation.<br/> 
 # 2  Dangerous Shorelines with Most Shipwrecks<br/>
-**Insight:** The shoreline near Virginia Beach and Boulevard is the most dangerous, hosting a high density of submerged<br/> shipwrecks.
-**Managerial Implication:** Prioritize implementing safety measures and warning systems in high-density areas like Virginia Beach to reduce maritime accidents.
+**Insight:** The shoreline near Virginia Beach and Boulevard is the most dangerous, hosting a high density of submerged shipwrecks.<br/>
+**Managerial Implication:** Prioritize implementing safety measures and warning systems in high-density areas like Virginia Beach to reduce maritime accidents.<br/>
 # 3  Geographical Spread of Shipwrecks with Their Condition<br/>
 **Insight:** The North Atlantic Ocean has the largest cluster of submerged dangerous shipwrecks.<br/>
-**Managerial Implication:** Enhance monitoring and navigation support in the North Atlantic to safeguard maritime operations in this high-risk zone.
+**Managerial Implication:** Enhance monitoring and navigation support in the North Atlantic to safeguard maritime operations in this high-risk zone.<br/>
 # 4  Distribution of Shipwrecks by Their Condition<br/>
 **Insight:** Only 23% of shipwrecks are visible, while the majority are submerged, with a large proportion being dangerous.<br/>
-**Managerial Implication:** Focus on improving underwater detection technologies to address the risks posed by submerged shipwrecks.
+**Managerial Implication:** Focus on improving underwater detection technologies to address the risks posed by submerged shipwrecks.<br/>
 # 5  Depth Analysis for Different Types of Shipwrecks<br/>
 **Insight:** Submerged dangerous shipwrecks are most commonly located at a depth of 139 ft.<br/>
-**Managerial Implication:** Develop specialized equipment and protocols for exploration and hazard management at depths of around 139 ft.
+**Managerial Implication:** Develop specialized equipment and protocols for exploration and hazard management at depths of around 139 ft.<br/>
 # 6  Sound Analysis for Coordinates<br/>
 **Insight:** Poor sound quality is the leading reason why depth data is unavailable for many coordinates.<br/>
-**Managerial Implication:** Invest in high-fidelity sonar systems to improve the accuracy and availability of depth data for shipwreck coordinates.
+**Managerial Implication:** Invest in high-fidelity sonar systems to improve the accuracy and availability of depth data for shipwreck coordinates.<br/>
 # 7  Top Depth Category for Feature Type and Water Level<br/>
 **Insight:** "Wrecks - Submerged, nondangerous" with the status "always under water/submerged" is the most common combination.<br/>
-**Managerial Implication:** Allocate resources to monitor and document non-dangerous submerged wrecks, as they may still serve historical or ecological purposes.
+**Managerial Implication:** Allocate resources to monitor and document non-dangerous submerged wrecks, as they may still serve historical or ecological purposes.<br/>
